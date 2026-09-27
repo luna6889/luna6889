@@ -1,16 +1,37 @@
-## Hi there 👋
+# 元元 Leah ○
 
-<!--
-**luna6889/luna6889** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**我先去试，跑通了再告诉你。**
 
-Here are some ideas to get you started:
+你好，我是元元 Leah，一个把人生当作开放世界来玩的实验者。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我关注 **AI × 内容 × 新机会**：亲手尝试具体的项目，把过程、结果和踩过的坑整理成别人能用上的路径。
+
+这里放我整理和分享的 **AI Skills、内容工具与公开实验记录**。希望帮你少干重复活，也更容易开始自己的尝试。
+
+## 从一个小工具开始
+
+### 抖音逐字稿导出 Skill
+
+为内容研究准备材料：整理抖音视频的标题、逐字稿和互动数据，保存到本地文件或飞书多维表格。
+
+- 运行环境：豆包工作。
+- 输入：博主主页、单条视频或分享短链。
+- 建议从最新 5 条视频开始，先检查结果。
+- 当前公开内容：Skill 与参考文档；采集效果需在豆包工作中验证。
+
+[查看使用说明](https://github.com/luna6889/douyin-transcript-exporter)
+
+## 我会持续分享什么
+
+- **LAB｜我的实验**：自己做过的项目，记录过程、结果、坑和适用条件。
+- **CASE｜拆项目**：拆解机制、门槛和适合的人，并给出自己的判断。
+- **AI 讲人话**：从具体任务出发，把工具放进真实工作里。
+
+## 我的分享原则
+
+- 给出使用条件和验证范围。
+- 成功和失败都值得记录。
+- 商业结果是反馈，不是给人排名。
+- 我的结果 ≠ 你的结果。
+
+欢迎通过项目 Issues 提问、报告问题，或分享你的使用反馈。
