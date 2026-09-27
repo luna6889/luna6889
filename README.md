@@ -19,7 +19,7 @@
 - 建议从最新 5 条视频开始，先检查结果。
 - 当前公开内容：Skill 与参考文档；采集效果需在豆包工作中验证。
 
-[查看使用说明](https://github.com/luna6889/douyin-transcript-exporter)
+[查看使用说明](https://github.com/yuanyuanleah/douyin-transcript-exporter)
 
 ## 我会持续分享什么
 
